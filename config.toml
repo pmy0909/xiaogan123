@@ -1,0 +1,5 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = 'PMY'
+theme = 'paper'
+relativeUrls = true
